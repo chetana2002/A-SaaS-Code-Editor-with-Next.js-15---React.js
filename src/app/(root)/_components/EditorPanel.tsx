@@ -10,7 +10,6 @@ import {
   ShareIcon,
   TypeIcon,
   DownloadIcon,
-  PlayIcon,
 } from "lucide-react";
 import { useClerk } from "@clerk/nextjs";
 import { EditorPanelSkeleton } from "./EditorPanelSkeleton";
